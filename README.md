@@ -1,4 +1,4 @@
 ##ATMSimulator
 ============
 
-gui for a _bank ATM_
+gui for a bank ATM
